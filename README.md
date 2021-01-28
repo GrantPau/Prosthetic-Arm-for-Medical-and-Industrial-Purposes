@@ -3,6 +3,11 @@
 ## Purpose
 A bionic arm is developed to mimic the movements of a realistic arm such as grabbing and releasing objects with the help of electromyography. The goal is to create a working arm that exceeds the standard degrees of freedom a commercial prosthetic arm normally occupies, can hold relatively heavy household objects, and can be made at an affordable budget.  It is designed as an assistive technology for people who are immobilized due to the loss of a limb. It can also be implemented for industrial applications where automation can work on challenging or dangerous tasks for human labour to handle. This project was presented at a local science fair with my close friend, Umar Ali. 
 
+<p align="center">
+  <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG"/>
+</p>
+<p align="center">Figure 1: Final Claw Design<p align="center">
+
 ## How it Works
 The hand is able to operate using an electromyography (EMG) sensor. An EMG sensor measures how much muscle is in use over a certain region in one's body and is based on which muscles are being attached by the three suction cups. After reading muscle movements, the sensor returns an arbitrary value between 0 and 923 where 0 means your muscle is stationary and 923 means your muscle is fully flexing. By taking these values to the Arduino, it can be programmed by telling servo motors to rotate at a certain position based on the arbitrary value. Hence, a working arm is achieved simply by attaching fishing wire to the servo motors so that the main joints in the hand are in motion. Having servo motors positioned at different angles have different tensions on the fishing wire so the prosthetic hand has the ability to be fully open, fully closed, or partially closed. The code is available here.
 
