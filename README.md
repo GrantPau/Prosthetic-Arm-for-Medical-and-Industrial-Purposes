@@ -1,4 +1,4 @@
-# Prosthetic Arm for Medical and Industrial-Purposes
+# Prosthetic Arm for Medical and Industrial Purposes
 
 ## Purpose
 A bionic arm is developed to mimic the movements of a realistic arm such as grabbing and releasing objects with the help of electromyography. The goal is to create a working arm that exceeds the standard degrees of freedom a commercial prosthetic arm normally occupies, can hold relatively heavy household objects, and can be made at an affordable budget.  It is designed as an assistive technology for people who are immobilized due to the loss of a limb. It can also be implemented for industrial applications where automation can work on challenging or dangerous tasks for human labour to handle. This project was presented at a local science fair with my close friend, Umar Ali. 
