@@ -23,11 +23,6 @@ To have realistic dimensions of the arm, my hand was measured and sketched using
   <img src="https://github.com/GrantPau/Prosthetic-Arm-for-Medical-and-Industrial-Purposes/blob/main/Pictures%20and%20Clips/virtual-hand-prototype.PNG"/>
 </p>
 <p align="center">Figure 3: Virtual Hand Prototype <p align="center">
-  
-  <p align="center">
-  <img src="https://github.com/GrantPau/Prosthetic-Arm-for-Medical-and-Industrial-Purposes/blob/main/Pictures%20and%20Clips/hand-assembly.JPG"/>
-</p>
-<p align="center">Figure 4: Hand Assembly <p align="center">
 
 ## Circuit Schematic
 A total of 7 servo motors are used to mimic the following components of the hand: pinky, ring, middle, and index fingers, thumb, thumb metacarpal, and the wrist. The motors are supplied by an external 9V battery which is achieved by connecting x6 1.5V AA batteries in series. All the motors are connected in a breadboard which is connected to the forearm mount using velcro. The EMG sensor is attached to the upper part of the forearm and is powered by the 5V supply on the Arduino. All components are connected to their respective signal, as shown below.
@@ -35,7 +30,7 @@ A total of 7 servo motors are used to mimic the following components of the hand
 <p align="center">
   <img src="https://github.com/GrantPau/Prosthetic-Arm-for-Medical-and-Industrial-Purposes/blob/main/Pictures%20and%20Clips/circuit-schematic.PNG"/>
 </p>
-<p align="center">Figure 5: Arm Circuit <p align="center">
+<p align="center">Figure 4: Arm Circuit <p align="center">
 
 ## Outcome
 Based on the criteria, the design performs well. Our arm has 7 degrees of freedom which is over the conventional 6 degrees of freedom seen by commercial prothetic arms, it can hold objects up to 110 grams, and is built under $100 which is budget-friendly compared to other myoelectric arms that sell for over $5000 on the market. Our design can be improved by using stronger servo motors to hold heavier objects, preventing the forearm to wobble when in action, and adding another mount in the forearm for the battery holder so that all the components can be accessible inside the arm. Overall, we had a great experience throghout the process. The elements we learned is undeniably practical as they are useful in other engineering projects.
