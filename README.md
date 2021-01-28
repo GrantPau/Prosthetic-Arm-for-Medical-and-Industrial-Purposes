@@ -22,7 +22,7 @@ To have realistic dimensions of the arm, my hand was measured and sketched using
 <p align="center">
   <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG"/>
 </p>
-<p align="center">Figure 3: Hand Prototype <p align="center">
+<p align="center">Figure 3: Virtual Hand Prototype <p align="center">
   
   <p align="center">
   <img src="https://github.com/GrantPau/APSC-101-Claw/blob/main/Drawings%2C%20Schematics%2C%20CAD%20Models/final-design.PNG"/>
